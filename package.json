@@ -1,0 +1,31 @@
+{
+  "name": "convert-timezone",
+  "version": "1.0.1",
+  "description": "A simple command line utility tool to convert timezones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "convert-timezone": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavinVladMihai/convert-timezone.git"
+  },
+  "keywords": [
+    "timezone",
+    "converter",
+    "cli"
+  ],
+  "author": "Vlad-Mihai Savin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SavinVladMihai/convert-timezone/issues"
+  },
+  "homepage": "https://github.com/SavinVladMihai/convert-timezone#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "moment-timezone": "^0.5.23"
+  }
+}
