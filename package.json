@@ -1,6 +1,6 @@
 {
   "name": "convert-timezone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple command line utility tool to convert timezones",
   "main": "index.js",
   "scripts": {
